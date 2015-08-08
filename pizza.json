@@ -1,0 +1,7 @@
+[
+  {"name":"Chicken & Ham", "ingre":["Champagne ham","Flame ground chicken","Red Onion","Mozzarella", "BBQ Sauce"], "vegetarian" : false},
+  {"name":"Supreme", "ingre":["Pepperoni","Rasher Bacon", "Capsicum","Ground beef","Italian sausage","Mushroom","Pineapple", "Mozzarella","Oregano"], "vegetarian" : false},
+  {"name":"GodFather", "ingre":["Pepperoni","Fresh tomato", "Capsicum" , "Italian Sausage", "Olives", "Oregano", "Mozzerella","Garlic Sauce"], "vegetarian" : false},
+  {"name":"Hawaiian", "ingre":["Champagne ham", "Pineapple","Mozzarella"], "vegetarian" : true},
+  {"name":"BBQ Meatlovers", "ingre":["Rasher bacon", "Pepperoni", "Champagne Ham", "Ground Beef", "Italian Sausage" ,"Mozzarella", "BBQ sauce"], "vegetarian" : false}
+]
